@@ -2,6 +2,7 @@
 An interactive Excel dashboard that analyses personal bank and credit-card transactions to show where money comes from, where it goes, and how much is saved each month.
 
 ![Dashboard](https://github.com/Likhi250902/personal-finance-dashboard/blob/main/dashboard_image1.png)
+![Dashboard](https://github.com/Likhi250902/personal-finance-dashboard/blob/main/dashboard_image2.png)
 
 ## Dataset
 - Source: [Personal Transactions dataset on Kaggle](https://www.kaggle.com/datasets/uom220338n/personal-finance-dataset?select=personal_transactions_dashboard_ready+%282%29.xlsx)
