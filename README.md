@@ -27,13 +27,10 @@ An interactive Excel dashboard that analyses personal bank and credit-card trans
 - About 78% of Expense goes through the Checking account
 
 ## How to Use
-1. Download `personal_finance_dashboard.xlsx`
+1. Download https://github.com/Likhi250902/personal-finance-dashboard/blob/main/personal_finance_dashboard.xlsx
 2. Open the Dashboard sheet to view the KPIs and charts
 3. The Data sheet holds the transactions and the Calcilations sheet holds the summary tables
 4. To update, add new rows to the Data sheet; the dashboard recalculates automatically
-
-## How to Use
-1. Download `personal_finance_dashboard.xlsx`
 
 ## Limitations
 - Only 21 months of data, with no budget targets
