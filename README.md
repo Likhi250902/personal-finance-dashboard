@@ -41,5 +41,5 @@ An interactive Excel dashboard that analyses personal bank and credit-card trans
 
 
 ## Author
-Likhitha Tervati: [LinkedIn](www.linkedin.com/in/likhitha-tervati-7383a7294)
+Likhitha Tervati: [LinkedIn](https://www.linkedin.com/in/likhitha-tervati-7383a7294/)
 
