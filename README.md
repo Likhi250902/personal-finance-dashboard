@@ -6,6 +6,7 @@ An interactive Excel dashboard that analyses personal bank and credit-card trans
 
 ## Dataset
 - Source: [Personal Transactions dataset on Kaggle](https://www.kaggle.com/datasets/uom220338n/personal-finance-dataset?select=personal_transactions_dashboard_ready+%282%29.xlsx)
+- License: Dataset licensed under the MIT License. 
 - Raw file: [Raw_data](https://github.com/Likhi250902/personal-finance-dashboard/blob/main/Raw_Data.xlsx), the original file as downloaded from Kaggle
 - 806 transactions, Jan 2018 – Sep 2019
 - Columns: Date, Description, Amount, Transaction Type, Category, Account Name, Month
